@@ -4,5 +4,7 @@ In this project, I've created a **Tableview** and use **API** to show data on ea
 
 Api used: https://api.opendota.com/api/heroStats
 
+<img src="/resultpics/screen1.png" width="200">
+<img src="/resultpics/screen2.png" width="200">
 
 **Made with ❤️ by Nancy Jain**
